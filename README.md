@@ -1,4 +1,4 @@
-# USDTether-Miner
+# Open Source USDT Mining Algorithm Toolkit
 Legitimate cloud usdt miner
 <img src="screenshot.png">
 <hr>
